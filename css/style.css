@@ -1,16 +1,16 @@
 body{
 
-    font-family: Arial, sans-serif;
     background-color: transparent;
     margin-top: 0%;
     margin-left: 0%;
     margin-right: 0%;
     margin-bottom: 0%;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 
 }
-
-
-        
+  
 .header{
 
     background-color: #1E2021;
@@ -636,11 +636,13 @@ body{
 .header_lista{
 
     max-width: 200px;
+    margin-left: -22px;
 
 }
 
 .header_lista2{
 
+    margin-left: 40px;
 
 }
 
@@ -662,6 +664,7 @@ body{
 .foolist li{
 
     margin-bottom: 20px;
+    text-align: left;
 
 }
 
@@ -675,6 +678,7 @@ body{
 .foolist2 li{
 
     margin-bottom: 20px;
+    text-align: left;
 
 }
 
